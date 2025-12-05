@@ -7,6 +7,7 @@
 <div align="center">
   
   ![snake gif](https://github.com/Zygarde641/Zygarde641/blob/output/github-snake-dark.svg)
+
   
 </div>
 
