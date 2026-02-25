@@ -1,5 +1,19 @@
 # 💫 About Me:
-👋 Hey, I'm Arjun Srivastava (Zygarde641)<br><br>I build things that blend AI, full-stack engineering, and data analytics, from neural networks that interpret sign language to scalable web apps and management systems. I love taking ideas from “this might work” to “damn, this actually works.”<br><br>I specialize in transforming messy problems into clean, working systems <br><br>🚀 What I Do<br><br>🧠 AI & Deep Learning - Real-time video inference, landmark extraction, custom neural nets<br><br>🖥️ Full-Stack Development - Scalable REST APIs, modern UI engineering, secure auth<br><br>📊 Data Analytics - Dashboards, automated insights, story-driven analytics<br><br>🏗️ Product Management - Turning business needs into actual, usable tech<br><br>
+👋 Hey, I'm Arjun Srivastava (Zygarde641)
+
+I build things that blend AI, full-stack engineering, and data analytics, from transformer-based sign language recognition systems to production-grade web apps and management platforms. I enjoy taking ideas from "this might work" to "damn, this actually ships."
+
+I specialize in turning messy, complex problems into clean, working systems
+
+🚀 What I Do
+
+🧠 AI & Deep Learning — Real-time inference, MediaPipe landmark extraction, transformer & RNN/LSTM pipelines
+
+🖥️ Full-Stack Development — Spring Boot APIs, React/Next.js UI engineering, secure OAuth & JWT auth
+
+📊 Data Analytics — Power BI/IBM Cognos dashboards, automated reporting, story-driven insights
+
+🏗️ Product Engineering — Translating business requirements into scalable, user-centric tech
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-srivastava-122303288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Zarjun641@gmail.com) [![portfolio](https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fwebsite)](https://arjun-sri-portfolio.vercel.app/)
