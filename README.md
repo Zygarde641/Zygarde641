@@ -16,7 +16,7 @@ I specialize in turning messy, complex problems into clean, working systems
 🏗️ Product Engineering — Translating business requirements into scalable, user-centric tech
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-srivastava-122303288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Zarjun641@gmail.com) [![portfolio](https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fwebsite)](https://arjun-sri-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-sri-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Zarjun641@gmail.com) [![portfolio](https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fwebsite)](https://arjun-sri-portfolio.vercel.app/)
 
 <div align="center">
   
