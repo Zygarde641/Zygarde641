@@ -1,12 +1,9 @@
 # 💫 About Me:
 👋 Hey, I'm Arjun Srivastava (Zygarde641)
 
-I build things that blend AI, full-stack engineering, and data analytics, from transformer-based sign language recognition systems to production-grade web apps and management platforms. I enjoy taking ideas from "this might work" to "damn, this actually ships."
-
-Full-Stack Developer | AI/ML | Building at scale
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Shipping production apps with React, Node.js & PyTorch.
-From real-time sign language models to ride-booking platforms.
+Full-Stack Developer | AI/ML Engineer | Building at Scale using PERN
+---------------------
+I ship production applications with React, Node.js, and PyTorch. Built real-time sign language models, ride-booking platforms, and full-stack systems that scale. Passionate about clean code, system design, and turning complex problems into working solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-sri-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Zarjun641@gmail.com) [![portfolio](https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fwebsite)](https://arjun-sri-portfolio.vercel.app/)
